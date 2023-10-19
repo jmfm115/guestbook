@@ -942,6 +942,18 @@
         "ideas",
         "translation"
         ]
+    },
+    {
+      "login": "jmfm115",
+      "name": "James Mount",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42118034?v=4",
+      "profile": "https://github.com/jmfm115",
+      "contributions": [
+        "code",
+        "data",
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
